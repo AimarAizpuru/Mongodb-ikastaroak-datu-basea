@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c363caed38b21776f8ad409"},"ikastaro_izena":"Programazioa","ikasataro_gaiak":["C","Java","C#","Python","JavaScript"],"ordu_kopurua_guztira":400.0,"ikasle_kop":20.0,"irakaslea":"Eider Maiztegi"}
+{"_id":{"$oid":"5c363df7d38b21776f8ad40a"},"ikastaro_izena":"Historia","ikasataro_gaiak":["Historiaurrea","Erdi Aroa","Errenazimendua","Lehen Mundu Gerra","Bigarren Mundu Gerra"],"ordu_kopurua_guztira":450.0,"ikasle_kop":5.0,"irakaslea":"Mikel Egiguren"}
+{"_id":{"$oid":"5c364243347743271918212a"},"ikastaro_izena":"Datu Baseak","ikasataro_gaiak":["Acces","PostgreSQL","MySQL","MongoDB","Cassandra"],"ordu_kopurua_guztira":400.0,"ikasle_kop":30.0,"irakaslea":"Aitor Magallanes"}
+{"_id":{"$oid":"5c364646347743271918212b"},"ikastaro_izena":"Markatzen Lenguaia","ikasataro_gaiak":["HTML5","CSS3","XML","Bootstrap","PHP"],"ordu_kopurua_guztira":480.0,"ikasle_kop":35.0,"irakaslea":"Carlos Enriquez"}
+{"_id":{"$oid":"5c364763347743271918212c"},"ikastaro_izena":"Sistemak","ikasataro_gaiak":["Muntaia","Dezimalak-Oktalak-Hexadezimalak","Raids","Domeinua","Linux"],"ordu_kopurua_guztira":390.0,"ikasle_kop":33.0,"irakaslea":"Idoia Madariaga"}
